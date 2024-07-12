@@ -1,0 +1,14 @@
+C:\Users\jprje\source\repos\dmart\bin\Debug\net8.0\dmart.exe
+C:\Users\jprje\source\repos\dmart\bin\Debug\net8.0\dmart.deps.json
+C:\Users\jprje\source\repos\dmart\bin\Debug\net8.0\dmart.runtimeconfig.json
+C:\Users\jprje\source\repos\dmart\bin\Debug\net8.0\dmart.dll
+C:\Users\jprje\source\repos\dmart\bin\Debug\net8.0\dmart.pdb
+C:\Users\jprje\source\repos\dmart\obj\Debug\net8.0\dmart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jprje\source\repos\dmart\obj\Debug\net8.0\dmart.AssemblyInfoInputs.cache
+C:\Users\jprje\source\repos\dmart\obj\Debug\net8.0\dmart.AssemblyInfo.cs
+C:\Users\jprje\source\repos\dmart\obj\Debug\net8.0\dmart.csproj.CoreCompileInputs.cache
+C:\Users\jprje\source\repos\dmart\obj\Debug\net8.0\dmart.dll
+C:\Users\jprje\source\repos\dmart\obj\Debug\net8.0\refint\dmart.dll
+C:\Users\jprje\source\repos\dmart\obj\Debug\net8.0\dmart.pdb
+C:\Users\jprje\source\repos\dmart\obj\Debug\net8.0\dmart.genruntimeconfig.cache
+C:\Users\jprje\source\repos\dmart\obj\Debug\net8.0\ref\dmart.dll
